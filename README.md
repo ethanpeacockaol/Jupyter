@@ -37,4 +37,6 @@ For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo`
 
 Example says actions will build upon commit
 
+Enabled pages and actions read and write retesting
+
 
