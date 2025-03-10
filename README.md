@@ -35,3 +35,6 @@ optional utilities and extensions to make the JupyterLite experience more enjoya
 For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo` repository](https://github.com/jupyterlite/xeus-python-demo)
 
 
+Example says actions will build upon commit
+
+
